@@ -1,0 +1,2 @@
+# Avrupa-Futbol-Verisi-ile-U-tan-Uca-Yapay-Zeka-Destekli-Scout-ve-Performans-Analizi-Platformu
+Kaggle üzerinden geniş kapsamlı European Soccer Database kullanılarak, kulüplerin transfer stratejilerini optimize eden, veriye dayalı bir scouting,karar destek sistemi geliştirilmiştir. Proje, ETL, makine öğrenimi ile gelecek tahminine gibi veri bilimi süreçlerini icerir.Tools:BigQuery (SQL), Python (Pandas, Scikit-learn, Plotly), Looker Studio.
